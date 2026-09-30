@@ -1,0 +1,8 @@
+# Extra packages for running Final_Project_Group_9.ipynb locally (not needed for the app)
+-r requirements.txt
+scipy>=1.11
+statsmodels>=0.14
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
+pytest>=8.0

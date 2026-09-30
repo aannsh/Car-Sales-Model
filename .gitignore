@@ -1,0 +1,13 @@
+# Customer-level data stays out of GitHub
+data/
+Car_Sales*.csv
+Car_Sales*.xlsx
+Car*Sales*.csv
+Car*Sales*.xlsx
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.pytest_cache/
+.DS_Store
